@@ -16,7 +16,7 @@ public enum ThreadColour {
         this.colour = colour;
     }
 
-    public String colour() {
-        return colour;
+    public String getColour() {
+        return this.colour;
     }
 }
